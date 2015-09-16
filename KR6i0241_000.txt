@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說禪行三十七品經
+#+DATE: 2015-08-30 20:13:44.600039
+#+PROPERTY: JUAN 0
