@@ -1,0 +1,4 @@
+001-0181a02	TKD 20-1261b	buddhist/K-koreana/20-tif/1200-1299/20_1261_B.TIF
+001-0181a21	TKD 20-1261c	buddhist/K-koreana/20-tif/1200-1299/20_1261_C.TIF
+001-0181a00	T 001-0181a	buddhist/T-taisho/T15/01/T15-0181.png
+001-0181b00	T 001-0181b	buddhist/T-taisho/T15/01/T15-0181.png
