@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:45.557147
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:01
 #+TITLE: 佛說禪行三十七品經
 #+PROPERTY: CBETA_ID T15n0604
 #+PROPERTY: ID KR6i0241
